@@ -1,4 +1,4 @@
-name: github pages
+name: "Compile website to gh-pages branch"
 
 on:
   push:
