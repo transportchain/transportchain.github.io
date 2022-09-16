@@ -1,0 +1,57 @@
+baseURL: 'https://transportchain.io/'
+languageCode: 'en-us'
+defaultContentLanguage: "en"
+title: 'TransportChain'
+theme: 'hugo-papermod'
+googleAnalytics: "G-JXYXCZ9HJ5"
+
+
+params:
+  env: "production" # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+  #author: "TransportChain"
+  defaultTheme: "light"
+  # disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowToc: false
+  disableThemeToggle: true
+  # comments: false
+  images: ["papermod-cover.png"]
+
+  label:
+    icon: "/images/logo-transparent.png"
+
+  assets:
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon-16x16.png"
+    favicon32x32: "/images/favicon-32x32.png"
+
+  socialIcons:
+  - name: github
+    url: "https://github.com/transportchain"
+  mainSections:
+  - page
+
+languages:
+  en:
+    menu:
+      main:
+      - name: Roadmap
+        url: '/#plans'
+        weight: 1
+      - name: Technology
+        url: /page/technology
+        weight: 5
+      # - name: Collaboration
+      #   url: /page/collaboration
+      #   weight: 10
+      - name: Contact Us
+        url: /page/contact
+        weight: 10

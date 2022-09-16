@@ -1,3 +1,12 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "themes/hugo-fresh"]
+	path = themes/hugo-fresh
+	url = https://github.com/StefMa/hugo-fresh
+[submodule "themes/spectral"]
+	path = themes/spectral
+	url = https://github.com/sbruder/spectral.git
+[submodule "themes/hugo-papermod"]
+	path = themes/hugo-papermod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
