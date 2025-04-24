@@ -49,7 +49,7 @@
     {{- partial "share_icons.html" . -}}
     {{- end }}
 
-    {{ partial "social_icons.html" site.Params.socialIcons }}
+    {{ partial "social_icons.html" (dict "icons" site.Params.socialIcons) }}
   </footer>
 
   {{- if (.Param "comments") }}

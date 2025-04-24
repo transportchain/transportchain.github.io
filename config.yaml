@@ -34,8 +34,10 @@ params:
     favicon32x32: "/images/favicon-32x32.png"
 
   socialIcons:
-  - name: github
-    url: "https://github.com/transportchain"
+    - name: github
+      url: "https://github.com/transportchain"
+      title: "GitHub"
+      pack: fab
   mainSections:
   - page
 
