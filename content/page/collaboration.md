@@ -5,8 +5,8 @@ draft: true
 hideMeta: true
 ---
 
-The project is currently in closed source mode and will continue like this untill the release of the first working component for testing purposes. However, regardless of the closed source aspect of the current codebase anyone will to participate and the development of the project is welcome.
+The project is currently in closed source mode and will continue like this until the release of the first working component for testing purposes. However, regardless of the closed source aspect of the current codebase anyone willing to participate in the development of the project is welcome.
 
 ### Skills needed for effective PR authorship
 
-The pro
+The project welcomes contributions from developers with experience in blockchain technology, aviation systems, and distributed systems.
